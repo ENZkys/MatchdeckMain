@@ -9,4 +9,4 @@ A sleek profile card sharing platform with real-time social media integration, i
 🌙 **Dark/Light Mode** - Toggle between themes
 🔗 **Social Links** - Add all your social media profiles
 ✨ **Particle Effects** - Animated background
-🎨 **Modern UI** - Glassmorphism design
+🎨 **Modern UI** - Glassmorphism design 
